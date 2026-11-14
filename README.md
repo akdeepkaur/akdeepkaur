@@ -86,7 +86,6 @@ A **7-page interactive Power BI report** that takes leadership from a one-page e
 - ⚠️ **Tables and Bookcases lose money**, average order value fell **2.6%**, and returns rose **55%** year over year
 - ✅ Recommended actions: fix losses in Tables and Bookcases, investigate returns, and raise basket value through cross-selling
 
-👉 **[Project files and screenshots](https://github.com/YOUR-USERNAME/superstore-power-bi-dashboard)**
 
 ---
 
@@ -111,7 +110,6 @@ An interactive, three-page Excel dashboard that gives leadership one view of **s
 - **Automation:** VBA macros for data shaping and table formatting
 - **Design:** consistent layout and colours so the key numbers stand out
 
-👉 **[Project files and screenshots](https://github.com/YOUR-USERNAME/superstore-excel-dashboard)**
 
 ## 🗺️ Learning roadmap
 - [x] Advanced Excel: cleaning, pivot tables, lookups
